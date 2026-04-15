@@ -1,4 +1,4 @@
-📜 Infosys Certifications Portfolio
+📜 MY Certifications Portfolio
 
 This repository contains my certifications earned through Infosys learning platforms, showcasing my continuous learning and skill development in technology and data science domains.
 
